@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DepositCalculator</string>
+    <string name="app_header">Банковский калькулятор</string>
+    <string name="period">Кол-во месяцев:</string>
+    <string name="percent">Месячный процент:</string>
+    <string name="amount">Начальная сумма:</string>
+    <string name="submit">Узнать</string>
+    <string name="author">Трохин Александр Андреевич</string>
+    <string name="period_hint">Кол-во месяцев</string>
+    <string name="percent_hint">Процент</string>
+    <string name="amount_hint">Сумма</string>
+</resources>
